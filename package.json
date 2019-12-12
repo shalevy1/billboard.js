@@ -106,7 +106,7 @@
     "core-js": "^3.4.7",
     "coveralls": "^3.0.9",
     "cross-env": "^6.0.3",
-    "css-loader": "^3.2.1",
+    "css-loader": "^3.3.2",
     "d3-array": "^2.4.0",
     "d3-format": "^1.4.2",
     "d3-polygon": "^1.0.6",
